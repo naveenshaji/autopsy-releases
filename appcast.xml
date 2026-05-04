@@ -3,13 +3,13 @@
     <channel>
         <title>Autopsy</title>
         <item>
-            <title>0.1.1</title>
-            <pubDate>Mon, 04 May 2026 16:02:00 +0530</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <title>0.1.2</title>
+            <pubDate>Mon, 04 May 2026 16:49:23 +0530</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/naveenshaji/autopsy-releases/main/Autopsy-0.1.1.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/naveenshaji/autopsy-releases/releases/download/v0.1.1/Autopsy-0.1.1.zip" length="28138524" type="application/octet-stream" sparkle:edSignature="/6fgJkOE9ZIepFVqrzZ0LO7CK376GZeRDDnnQJs5WHv/m1Yd+whmsLxChILkWgwb3VKXdZ3yaiHYyFaPqQZPDA=="/>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/naveenshaji/autopsy-releases/main/Autopsy-0.1.2.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/naveenshaji/autopsy-releases/releases/download/v0.1.2/Autopsy-0.1.2.zip" length="28122585" type="application/octet-stream" sparkle:edSignature="2PHGLBFFbXhu8vt4Dstl8UkP/Tnkm1IOxyQyw/joZdgCHgkKgUPqvkLwF0ebP7bjoKxHqmiZs1JrHySxPld3Cw=="/>
         </item>
     </channel>
 </rss>
